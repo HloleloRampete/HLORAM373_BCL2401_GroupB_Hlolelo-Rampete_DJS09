@@ -1,10 +1,10 @@
 {
   "name": "project",
-  "dependencies": {},
   "devDependencies": {
-
+    "@types/node": "^20.14.2",
+    "@types/webpack": "^5.28.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
   },
-  "scripts": {
-   
-  }
+  "scripts": {}
 }
